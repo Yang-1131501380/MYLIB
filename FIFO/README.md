@@ -1,0 +1,8 @@
+# LOCKFIFO
+
+> 加锁FIFO
+
+# FREEFIFO
+
+> 无锁FIFO
+
