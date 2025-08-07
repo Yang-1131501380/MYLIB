@@ -25,7 +25,7 @@
    `git remote -v`  
    删除它，比如查看后的远程源名字叫做 origin，则：  
    `git remote remove origin`  
-##第二次上传
+## 第二次上传
 确保你已经用 `git add` 命令将更改添加到暂存区，然后使用 `git commit` 提交这些更改：  
 `git add <changed_files>`  
 `git commit -m "Your commit message"`  
